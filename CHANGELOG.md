@@ -1,5 +1,9 @@
 # Change Log
 
+## 5.0.1
+
+- Fixed issue with xCode 10
+
 ## 5.0.0
 
 - Migrated to Swift 4

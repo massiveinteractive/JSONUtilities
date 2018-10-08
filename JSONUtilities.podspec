@@ -1,12 +1,12 @@
 Pod::Spec.new do |spec|
   spec.name         = 'JSONUtilities'
-  spec.homepage     = 'https://github.com/emirandm/JSONUtilities'
-  spec.version      = '5.0.0'
+  spec.homepage     = 'https://github.com/massiveinteractive/JSONUtilities'
+  spec.version      = '5.0.1'
   spec.license      = { :type => 'MIT' }
   spec.authors      = { 'Luciano Marisi' => 'luciano@techbrewers.com' }
   spec.summary      = 'Easily load JSON objects and decode them into structs or classes'
   spec.source           = {
-    :git => "https://github.com/emirandm/JSONUtilities.git",
+    :git => "https://github.com/massiveinteractive/JSONUtilities.git",
     :tag => spec.version.to_s
   }
   spec.source_files = 'Sources/**/*.swift'
